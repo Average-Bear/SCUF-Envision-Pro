@@ -296,7 +296,7 @@ background-position: 0 -53px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svg);
+    background: url(https://i.imgur.com/zYa1fpS.png);
     height: 94px;
     width: 94px;
 }
@@ -328,7 +328,7 @@ background-position: 0 -53px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://i.imgur.com/zsqp2W3.png);
     position: absolute;
 }
 
