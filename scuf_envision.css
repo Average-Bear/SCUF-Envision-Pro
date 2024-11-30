@@ -17,9 +17,10 @@
 
 .ds4 .triggers {
     position: absolute;
-    width: 538px;
+    width: 518px;
     height: 90px;
-    left: 200px;
+    left: 148px;
+    top: 8px;
 }
 
 .ds4 .trigger {
@@ -96,8 +97,8 @@
 /*.ds4 .quadrant{
     position: absolute;
     background: url();
-    height: 60px;
-    width: 111px;
+    height: 59px;
+    width: 110px;
     top: 388px;
     left: 190px;
 }
@@ -127,8 +128,8 @@
 
 .ds4 .y2{
     background-position: 0 -70px;
-    width:270px;
-    height: 120px;
+    width:269px;
+    height: 119px;
     left: 52px;
 }*/
 
@@ -141,10 +142,11 @@
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://i.imgur.com/w87icB5.png);
+    background: url(https://i.imgur.com/MHbKzt8.png);
     width: 28px;
     height: 46px;
     opacity: 0;
+    bottom: 50px;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
@@ -166,43 +168,17 @@
 
 .ds4 .abxy {
     position: absolute;
-    width: 170px;
-    height: 171px;
-    top: 120px;
-    left: 560px;
-    background: url(ps4-assets/face.svg);
-}
-
-.ds4 .abxy,
-.ds4 .abxy2 {
-    position: absolute;
     width: 210px;
     height: 211px;
     top: 140px;
     left: 590px;
-    background: url();
-}
-
-.ds4 .abxy.active,
-.ds4 .abxy2.active {
 }
 
 .ds4 .button {
     position: absolute;
     width: 55px;
-    height: 55px;;
-    background: url(ps4-assets/face.svg);
-}
-
-.ds4 .button,
-.ds4 .button2 {
-    position: absolute;
-    width: 55px;
     height: 55px;
-}
-
-.ds4 .button.active,
-.ds4 .button2.active {
+    background: url(https://i.imgur.com/GN4Xuz5.png);
 }
 
 .ds4 .button.pressed {
@@ -214,15 +190,15 @@
     background-position: 0 0;
     bottom: 80px;
     left: 53px;
-    background: url(ps4-assets/face.svg);
+    background: url(https://i.imgur.com/WGTJeUv.png);
 }
 
 .ds4 .a,
 .ds4 .a2 {
     
 background-position: 0 -53px;
-    width:59px;
-    height: 57px;
+    width:57px;
+    height: 55px;
     bottom: -149px;
     left: -14px;
     background: url(https://i.imgur.com/aG5cNo2.png);
@@ -259,7 +235,7 @@ background-position: 0 -53px;
 .ds4 .x2 {
     background-position: 0 -113px;
     width: 57px;
-    height: 16px;   
+    height: 15px;   
     top: 304px;
     left: -345px;
     background: url(https://i.imgur.com/izOCg4i.png);
@@ -280,7 +256,7 @@ background-position: 0 -53px;
 .ds4 .y2 {
     background-position: 0 -113px;
     width: 57px;
-    height: 17px; 
+    height: 14px; 
     left: -72px;
     top: 305px;
     background: url(https://i.imgur.com/D42tlWZ.png);
@@ -290,13 +266,13 @@ background-position: 0 -53px;
     position: absolute;
     width: 361px;
     height: 105px;
-    top: 260px;
-    left: 230x;
+    top: 263px;
+    left: 240x;
 }
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svg);
+    background: url(https://i.imgur.com/zYa1fpS.png);
     height: 94px;
     width: 94px;
 }
@@ -321,14 +297,14 @@ background-position: 0 -53px;
 
 .ds4 .dpad {
     position: absolute;
-    width: 125px;
+    width: 126px;
     height: 126px;
     top: 142px;
     left: 110px;
 }
 
 .ds4 .face {
-    background: url(ps4-assets/dpad.svg);
+    background: url(https://i.imgur.com/zsqp2W3.png);
     position: absolute;
 }
 
@@ -343,8 +319,8 @@ background-position: 0 -53px;
 }
 
 .ds4 .face.up {
-    left: 41px;
-    top: -5;
+    left: 33px;
+    top: 10px;
     background-position: -37px 0px;
 }
 
