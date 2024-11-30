@@ -16,16 +16,18 @@ sd/*BEGIN PS4 Controller Styling*/
 }
 
 .ds4 .triggers {
+    position: absolute;
     width: 538px;
     height: 90px;
-    left: 100px;
+    left: 120px;
+    top: 41px;
 }
 
 .ds4 .trigger {
     width: 99px;
     height: 100%;
     background: url(https://i.imgur.com/s20GHQs.png);
-    opacity: 40;
+    opacity: 0;
 }
 
 .ds4 .trigger.left {
