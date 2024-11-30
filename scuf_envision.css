@@ -1,4 +1,4 @@
-/*BEGIN PS4 Controller Styling*/
+sd/*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
     background: url(https://i.imgur.com/y9zwPO2.png);
     height: 598px;
@@ -31,7 +31,6 @@
 .ds4 .trigger.left {
     float: left;
     left: 100px;
-    top:50
 }
 
 .ds4 .trigger.right {
