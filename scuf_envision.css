@@ -30,6 +30,7 @@
 
 .ds4 .trigger.left {
     float: left;
+    left: 100px;
 }
 
 .ds4 .trigger.right {
@@ -231,7 +232,7 @@ background-position: 0 -53px;
     background-position: -57px 0;
     top: 58px;
     right: 5px;
-    background: url(ps4-assets/face.svg);
+    background: url(https://i.imgur.com/GN4Xuz5.png);
 }
 
 .ds4 .b,
