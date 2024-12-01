@@ -319,9 +319,18 @@ background-position: 0 -53px;
 }
 
 .ds4 .face.up {
-    left: 33px;
-    top: 10px;
+    /*width: 36px;
+    height: 52px;
+    left: 42px;
+    top: 7px;
     background-position: -37px 0px;
+    background: url(https://i.imgur.com/xitMBJ5.png);*/
+    width: 80px;
+    height: 127px;
+    top: -60px;
+    left: -102px;
+    background: url(https://i.imgur.com/FKCOurF.png) no-repeat;
+    background-position: 55px 120px;
 }
 
 .ds4 .face.down {
