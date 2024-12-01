@@ -304,18 +304,12 @@ background-position: 0 -53px;
 }
 
 .ds4 .face {
-    background: url(https://i.imgur.com/zsqp2W3.png);
+    
     position: absolute;
 }
 
 .ds4 .face.up, .ds4 .face.down {
-    width: 36px;
-    height: 52px;
-}
-
-.ds4 .face.left, .ds4 .face.right {
-    width: 52px;[
-    height: 36px;
+    
 }
 
 .ds4 .face.up {
@@ -329,27 +323,35 @@ background-position: 0 -53px;
     height: 127px;
     top: -60px;
     left: -102px;
-    background: url(https://i.imgur.com/FKCOurF.png);
+    background: url(https://i.imgur.com/FKCOurF.png) no-repeat;
     background-position: 55px 120px;
 }
 
 .ds4 .face.down {
+    width: 36px;
+    height: 52px;
     left: 42px;
     bottom: 10;
     background-position: 0px 0;
+    background: url(https://i.imgur.com/QLAyNyr.png);
 }
 
-.ds4 .face.left {
-    top: 45px;
-    left: 0;
-    background-position: 104px 0;
+/*.ds4 .face.left {
+    width: 20px;
+    height: 60px;
+    top: 47px;
+    left: -10px;
+    background: url(https://i.imgur.com/ZY11FS3.png);
+    background-position: 55px 120px;
 }
 
 .ds4 .face.right {
+    width: 52px;
+    height: 36px;
     top: 45px;
-    right: 5px;
-    background-position: 52px 0;
-}
+    right: 10px;
+    background: url(https://i.imgur.com/GoRHERb.png);
+}*/
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
