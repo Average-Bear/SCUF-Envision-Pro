@@ -300,13 +300,13 @@ background-position: 0 -53px;
     background-position: 55px 120px;
 }
 
-.ds4 .face.right {
+/*.ds4 .face.right {
     width: 52px;
     height: 36px;
     top: 45px;
     right: 10px;
     background: url(https://i.imgur.com/GoRHERb.png);
-}
+}*/
 
 .ds4 .face.pressed {
     /* margin-top: 5px; */
